@@ -1,0 +1,3 @@
+In python there three main data structures namely strings, list and dictionaries.
+In python you can also use classes to create various objects.
+In python you can use various libraries to perform specific task.
